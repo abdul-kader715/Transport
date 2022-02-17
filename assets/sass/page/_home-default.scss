@@ -474,7 +474,7 @@
 // start project section
 .wpo-project-section{
     margin: 20px 1px;
-    background: $project-bg;
+
     .wpo-static-hero-inner{
         padding: 95px 135px;
         @media (max-width: 1400px){
@@ -575,7 +575,6 @@
     }
     .static-hero-wrap{
         padding: 70px 110px;
-        background: $black;
         display: flex;
         max-width: 100%;
 
